@@ -56,19 +56,16 @@
     - Value 반환 중심
     - Call stack에 의존한 제어 흐름
 
-![image.png](attachment:11f69b9a-0fd8-421b-a480-418317905c75:image.png)
 
 - X-Fiber
     - Continuation과 Handler 명시적 전달
     - Non-local 제어 흐름 및 예외 처리 지원
 
-![image.png](attachment:0020fa2d-d173-4015-bbf0-b7d3d3281f51:image.png)
 
 - Fabric
     - Store 기반 실행
     - Mutation, Lazy evaluation, ADT 처리
 
-![image.png](attachment:286a326a-634d-4088-8d9e-122c68ed2feb:image.png)
 
 ---
 
